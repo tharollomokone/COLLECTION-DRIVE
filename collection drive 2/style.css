@@ -1,0 +1,49 @@
+body{background-color:#014d4e;}
+
+ul{color: white;
+    text-align: center;}
+    
+
+    li{display: inline;}
+    
+
+    li:hover{
+                background-color:#333;}
+    
+
+    
+        h1{ text-align:center;
+        color:white;}
+
+
+
+        label{text-align: centre;
+
+        }
+
+        input{
+            background: white;
+            text-align: center;
+        }
+        
+
+        p{color: white;
+            background-color:#014d4e;}
+
+             form{color:white;
+            text-align: center;
+            margin: 20px;
+        }
+
+                input [type="text"], input[type="email"],{
+                    width: 80%;
+                    paddind:10px;
+                    margin:10px;
+                    border: 1px solid #ccc;
+
+                    
+                } 
+                  footer{ text-align: center;
+                background-color: :#014d4e;
+                color: white;}               
+:
